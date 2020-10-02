@@ -3,9 +3,9 @@
 	"name": "Phact Launcher",
 	"description": "Phillips Academy Checkers of Truth Quick Links Launcher",
 	"version": "1.0.0",
-	"icons": {"128": "PhACT128png.png"},
-	"browser-action": {
-		"default_icon": "PhACT150.png",
+	"icons": {"128": "PhACT1282.png"},
+	"browser_action": {
+		"default_icon": "PhACT1502.png",
 		"default_popup": "popup.html"
 	},
 	"permissions" : ["activeTab"]
